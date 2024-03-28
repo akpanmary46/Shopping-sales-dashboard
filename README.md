@@ -46,5 +46,8 @@
 6. TOP 10 LOCATION BY CUSTOMER ORDER
 
 ![](https://github.com/akpanmary46/Shopping-sales-dashboard/blob/main/TOP%2010%20LOCATION%20BY%20CUSTOMER%20ORDER.png)  
-   
+
+7. TOTAL REVENUE AND COUNT OF PREVIOUS PURCHASE
+
+![](https://github.com/akpanmary46/Shopping-sales-dashboard/blob/main/TRANSACTION%20SUMMARY.png)
   
