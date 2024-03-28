@@ -9,4 +9,6 @@
 
 ## PROBLEM STATEMENT
    The marketing department aims to launch a campaign in the second quater of 2024. However,they required a dashboard to monitor business activity during the waiting period. This will provide insights into where to channel the camoaign efforts. The Marketing lead would like to track various metrics over time,including prodoct performance,changes in customers' choice of color,location and seasonality patterns in relation to orders. Additionally,any other metric(s) deemed necessary should be incoporated into the dashboard.
+
+   
   
