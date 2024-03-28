@@ -50,4 +50,8 @@
 7. TOTAL REVENUE AND COUNT OF PREVIOUS PURCHASE
 
 ![](https://github.com/akpanmary46/Shopping-sales-dashboard/blob/main/TRANSACTION%20SUMMARY.png)
-  
+
+## CONCLUSION
+  The highest category order by customer is clothing which 44.55%,The location with the highest order is 96 which is montana, The season with highest customer order is spring with 1000.
+
+  ![](https://github.com/akpanmary46/Shopping-sales-dashboard/blob/main/EXCEL%20DASHBOARD.png)
