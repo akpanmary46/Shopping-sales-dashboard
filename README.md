@@ -22,7 +22,7 @@
 ## DATA TRANSFORMATION AND CLEANING
   In ensuring a good and well constructed dataset,I went through the row and column for duplicate key,fill up the missing cells in customer id,re-arrange my row by bringing customer id to the 1st row and i replace the missing cell in color column as N/A
 
-## DATASET ANALYSIS
+## DATASET ANALYSIS AND VISUALS
  1. CATEGORY BASED ON ORDER
 
 ![](https://github.com/akpanmary46/Shopping-sales-dashboard/blob/main/CATEGORY%20BASED%20ON%20ORDER.png)
