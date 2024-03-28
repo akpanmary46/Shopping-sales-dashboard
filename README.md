@@ -24,7 +24,8 @@
 
 ## DATASET ANALYSIS
  1. CATEGORY BASED ON ORDER
-     ![](https://github.com/akpanmary46/Shopping-sales-dashboard/blob/main/CATEGORY%20BASED%20ON%20ORDER.png)
+
+![](https://github.com/akpanmary46/Shopping-sales-dashboard/blob/main/CATEGORY%20BASED%20ON%20ORDER.png)
 
    
    
