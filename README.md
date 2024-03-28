@@ -27,6 +27,24 @@
 
 ![](https://github.com/akpanmary46/Shopping-sales-dashboard/blob/main/CATEGORY%20BASED%20ON%20ORDER.png)
 
-   
+2. CUSTOMER ORDER BY COLOR
+
+![](https://github.com/akpanmary46/Shopping-sales-dashboard/blob/main/CUSTOMER%20ORDER%20BY%20COLOR.png)
+
+3. CUSTOMER ORDER BY PAYMENT METHOD
+
+![](https://github.com/akpanmary46/Shopping-sales-dashboard/blob/main/CUSTOMER%20ORDER%20BY%20PAYMENT%20METHOD.png)
+
+4. CUSTOMER ORDER BY SEASON
+
+![](https://github.com/akpanmary46/Shopping-sales-dashboard/blob/main/CUSTOMER%20ORDER%20BY%20SEASON.png)
+
+5. CUSTOMER ORDER BY AGE
+
+![](https://github.com/akpanmary46/Shopping-sales-dashboard/blob/main/ORDER%20BY%20AGE.png)
+
+6. TOP 10 LOCATION BY CUSTOMER ORDER
+
+![](https://github.com/akpanmary46/Shopping-sales-dashboard/blob/main/TOP%2010%20LOCATION%20BY%20CUSTOMER%20ORDER.png)  
    
   
